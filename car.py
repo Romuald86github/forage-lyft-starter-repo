@@ -6,7 +6,7 @@ class Car(ABC):
 
     @abstractmethod
     def needs_service(self):
-        passfrom abc import ABC, 
+        pass 
 abstractmethod
 
 
